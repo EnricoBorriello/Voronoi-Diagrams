@@ -1,5 +1,3 @@
-# Voronoi-Diagrams
-
 # Voronoi Diagram and Cell Area Calculation
 
 This notebook demonstrates how to:
